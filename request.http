@@ -1,0 +1,3 @@
+
+GET https://api.duckduckgo.com/?q=REPLACEME&format=json&pretty=1
+

@@ -1,0 +1,41 @@
+body,
+html {
+  box-sizing: border-box;
+}
+.top {
+  height: 80px;
+}
+.cell {
+  height: 120px;
+  width: 190px;
+  background-color: blue;
+  margin: 1px;
+  border: 1px solid yellow;
+  color: yellow;
+  text-align: center;
+  overflow: scroll;
+  padding: 5px;
+}
+
+#grid {
+  display: flex;
+  justify-content: center;
+  border: 1px solid grey;
+  width: 100%;
+  background-color: black;
+}
+#answer {
+  width: 60vw;
+  height: 5vh;
+}
+#input {
+  width: 75vw;
+  height: 5vh;
+  text-align: center;
+}
+#userOutput {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
