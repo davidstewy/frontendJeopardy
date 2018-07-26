@@ -1,3 +1,3 @@
 
-GET http://api.duckduckgo.com/?q=REPLACEME&format=json&pretty=1
+GET https://api.duckduckgo.com/?q=REPLACEME&format=json&pretty=1
 
